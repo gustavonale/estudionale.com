@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /inicio.html
+
+Sitemap: https://estudionale.com/sitemap.xml
