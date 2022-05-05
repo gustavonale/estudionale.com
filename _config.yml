@@ -44,7 +44,7 @@ footer-links:
 # google_analytics: UA-43339302-11
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
-# google_analytics_ga4: G-XD3YX63S8Y
+google_analytics_ga4: G-XD3YX63S8Y
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
@@ -86,7 +86,7 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   # - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  # - jekyll-seo-tag
+  - jekyll-seo-tag
   - jekyll-paginate
 
 include: ['_pages']
