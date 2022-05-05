@@ -4,16 +4,13 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
     {% include meta.html %}
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
     {% include analytics_head.html %}
   </head>
-
   <body>
     <div id="bar"></div>
     <div class="wrapper-container">
@@ -26,7 +23,6 @@
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p> 
             </div>
-
             <nav>
               <!--<a href="{{ site.baseurl }}/">Home</a>-->
               <!--<a href="{{ site.baseurl }}/getting-started">Getting Started</a>-->
@@ -37,13 +33,11 @@
           </header>
         </div>
       </div>
-
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
           {{ content }}
         </div>
       </div>
-
       <div class="wrapper-footer">
         <div class="container">
           <footer class="footer">
@@ -52,7 +46,6 @@
         </div>
       </div>
     </div>
-
     {% include analytics.html %}
   </body>
 </html>
