@@ -3,6 +3,9 @@ Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
 Allow: /CNAME
+Allow: /googlea63fae354dd2d06a.html
+Allow: /BingSiteAuth.xml
+Allow: /yandex_a8b740b5ac29b6b7.html
 Disallow: /_*/
 Disallow: /.*/
 Disallow: /ini*.*l
@@ -12,18 +15,6 @@ Disallow: /images/
 Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /cgi-bin/
-
-
-User-agent: MSNBot
-Allow: /BingSiteAuth.xml
-
-
-User-Agent: Yandex
-Allow: /yandex_a8b740b5ac29b6b7.html
-
-
-User-agent: Googlebot
-Allow: /googlea63fae354dd2d06a.html
 
 
 Sitemap: https://estudionale.com/sitemap.xml
