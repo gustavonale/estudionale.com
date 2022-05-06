@@ -18,7 +18,6 @@ Allow: /BingSiteAuth.xml
 User-Agent: Yandex
 Allow: /yandex_a8b740b5ac29b6b7.html
 
-# User-agent: yahoo-blogs/v3.9
 # User-agent: Googlebot
 
 Sitemap: https://estudionale.com/sitemap.xml
