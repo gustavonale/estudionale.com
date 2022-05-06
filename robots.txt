@@ -1,4 +1,12 @@
 User-agent: *
-Disallow: /inicio.html
+Allow: /index.html
+Allow: /404.html
+Allow: /sitemap.xml
+Disallow: /_*/
+Disallow: /.*/
+Disallow: /ini*.*
+Disallow: /assets/
+Disallow: /fonts/
+Disallow: /images/
 
 Sitemap: https://estudionale.com/sitemap.xml
