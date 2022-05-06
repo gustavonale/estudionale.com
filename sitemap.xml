@@ -3,13 +3,19 @@
   <url>
     <loc>https://estudionale.com/index.html</loc>
     <lastmod>2022-05-06</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://estudionale.com/404.html</loc>
     <lastmod>2022-05-06</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>https://estudionale.com/robots.txt</loc>
+    <lastmod>2022-05-06</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
