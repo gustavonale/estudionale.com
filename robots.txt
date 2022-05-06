@@ -3,6 +3,8 @@ Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
 Allow: /CNAME
+Allow: /BingSiteAuth.xml
+Allow: /yandex_a8b740b5ac29b6b7.html
 Disallow: /_*/
 Disallow: /.*/
 Disallow: /ini*.*l
