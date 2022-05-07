@@ -8,6 +8,7 @@ Disallow: /images/
 Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /cgi-bin/
+Disallow: /cdn-cgi/
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
