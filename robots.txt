@@ -6,6 +6,7 @@ Allow: /CNAME
 Allow: /googlea63fae354dd2d06a.html
 Allow: /BingSiteAuth.xml
 Allow: /yandex_a8b740b5ac29b6b7.html
+Allow: /.well-known/brave-rewards-verification.txt
 Disallow: /_*/
 Disallow: /.*/
 Disallow: /ini*.*l
