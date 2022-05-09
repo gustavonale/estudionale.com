@@ -3,9 +3,9 @@
 layout: page
 title: Abogado
 ---
-#### Gustavo David Nale
+Gustavo David Nale
 
-#### (02954) 15-529500  
+(02954) 15-529500  
 
 
 [![](/images/whatsapp.png)](https://wa.me/5492954529500/)
