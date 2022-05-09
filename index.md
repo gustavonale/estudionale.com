@@ -9,4 +9,4 @@ Gustavo David Nale
 
 
 [![](https://estudionale.com/images/whatsapp.png)](https://wa.me/5492954529500/)
-[![](/images/telegram.png)](https://t.me/gustavo_ok/)
+[![](estudionale.com/images/telegram.png)](https://t.me/gustavo_ok/)
