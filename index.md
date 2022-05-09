@@ -8,5 +8,4 @@ title: Abogado
 ##### (02954) 15-529500  
 
 
-[![](https://estudionale.com/images/whatsapp.png)](https://wa.me/5492954529500/)
-[![](https://estudionale.com/images/telegram.png)](https://t.me/gustavo_ok/)
+##### [![](https://estudionale.com/images/whatsapp.png)](https://wa.me/5492954529500/) [![](https://estudionale.com/images/telegram.png)](https://t.me/gustavo_ok/)
