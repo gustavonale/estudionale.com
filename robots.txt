@@ -2,7 +2,7 @@ User-agent: *
 Disallow: /_*/
 Disallow: /.*/
 Disallow: /ini*.*l
-Disallow: /assets/
+# Disallow: /assets/
 Disallow: /fonts/
 Disallow: /images/
 Disallow: /LICE*
