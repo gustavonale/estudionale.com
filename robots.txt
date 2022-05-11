@@ -1,13 +1,13 @@
 User-agent: *
-Disallow: /_*/
-Disallow: /.*/
-Disallow: /ini*.*l
-# Disallow: /assets/
-Disallow: /fonts/
-Disallow: /images/
 Disallow: /LICE*
 Disallow: /REA*.md
-Disallow: /cdn-cgi/
+Disallow: /ini*.*l
+# Disallow: /_*/
+# Disallow: /.*/
+# Disallow: /assets/
+# Disallow: /fonts/
+# Disallow: /images/
+# Disallow: /cdn-cgi/
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
