@@ -8,6 +8,7 @@ User-agent: *
 # Disallow: /fonts/
 # Disallow: /images/
 # Disallow: /cdn-cgi/
+Disallow: /feed.xml
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
