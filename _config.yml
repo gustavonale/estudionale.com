@@ -21,18 +21,18 @@ avatar: /images/balanza-justicia.svg
 # Includes an icon in the footer for each username you enter
 footer-links:
   # dribbble:
-  email: gustavonale@gmail.com
+  email: estudionale@gmail.com
   facebook: estudionale/
   # flickr:
   instagram: estudionale/
   # linkedin: 
-  # pinterest:
+  pinterest: estudionale
   # rss: rss
-  # twitter: amit_merchant
+  twitter: EstudioNale
   # stackoverflow: 
   youtube: channel/UCx1T0Mpi3-sTdOphQOSx9gw/ # channel/<your_long_string> or user/<user-name>
   # github: gustavonale/
-  # googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: estudionale # anything in your profile username that comes after plus.google.com/
   # playconsole:
 
 
