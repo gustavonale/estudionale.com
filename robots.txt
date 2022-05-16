@@ -2,13 +2,13 @@ User-agent: *
 Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /ini*.*l
+Disallow: /feed.xml
 # Disallow: /_*/
 # Disallow: /.*/
 # Disallow: /assets/
 # Disallow: /fonts/
 # Disallow: /images/
 # Disallow: /cdn-cgi/
-Disallow: /feed.xml
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
