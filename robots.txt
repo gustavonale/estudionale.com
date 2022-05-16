@@ -3,12 +3,6 @@ Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /ini*.*l
 Disallow: /feed.xml
-# Disallow: /_*/
-# Disallow: /.*/
-# Disallow: /assets/
-# Disallow: /fonts/
-# Disallow: /images/
-# Disallow: /cdn-cgi/
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
@@ -17,6 +11,13 @@ Allow: /googlea63fae354dd2d06a.html
 Allow: /BingSiteAuth.xml
 Allow: /yandex_a8b740b5ac29b6b7.html
 Allow: /.well-known/brave-rewards-verification.txt
+# Disallow: /_*/
+# Disallow: /.*/
+# Disallow: /assets/
+# Disallow: /fonts/
+# Disallow: /images/
+# Disallow: /cdn-cgi/
+
 
 
 Sitemap: https://estudionale.com/sitemap.xml
