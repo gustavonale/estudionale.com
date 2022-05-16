@@ -15,21 +15,23 @@ https://www.opengraph.xyz
 *******************************************************
 
 
+
 <!-- HTML Meta Tags -->
-<title>Estudio Jurídico Nale</title>
-<meta name="description" content="Servicios Jurídicos en Santa Rosa La Pampa.">
+<title>Abogados - Estudio Nale</title>
+<meta name="description" content="Estudio de abogados. Servicios Jurídicos. Santa Rosa La Pampa.">
 
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://estudionale.com/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Estudio Jurídico Nale">
-<meta property="og:description" content="Servicios Jurídicos en Santa Rosa La Pampa.">
+<meta property="og:title" content="Abogados - Estudio Nale">
+<meta property="og:description" content="Estudio de abogados. Servicios Jurídicos. Santa Rosa La Pampa.">
 <meta property="og:image" content="/images/balanza-justicia.png">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="">
 <meta property="twitter:url" content="https://estudionale.com/">
-<meta name="twitter:title" content="Estudio Jurídico Nale">
-<meta name="twitter:description" content="Servicios Jurídicos en Santa Rosa La Pampa.">
+<meta name="twitter:title" content="Abogados - Estudio Nale">
+<meta name="twitter:description" content="Estudio de abogados. Servicios Jurídicos. Santa Rosa La Pampa.">
 <meta name="twitter:image" content="/images/balanza-justicia.png">
+      
