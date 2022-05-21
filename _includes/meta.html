@@ -1,26 +1,10 @@
-<meta property="twitter:domain" content="https://estudionale.com/" />
-
-
-
-
-
-
-
-<!-- 
-
-<meta property="og:url" content="https://estudionale.com/" />
-
--->
-
-
-
-<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-<meta http-equiv='X-UA-Compatible' content='IE=edge'>
-<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 <link rel="preload" href="/assets/style.css" as="style" />
 <meta property="og:locale" content="es_AR" />
 
-<meta name="keywords" content="abogado, estudio de abogados, abogado penalista, abogado familia, abogado sucesiones, abogado civil, derecho civil, derecho penal, cobranzas, mediacion, mediador, estudio jurídico, legal, legales, juridico, estudio juridico, lawyer, attorney, bufete, despacho, santa rosa, la pampa, argentina">
+<meta name="keywords" content="abogado, estudio de abogados, abogado penalista, abogado familia, abogado sucesiones, abogado civil, derecho civil, derecho penal, cobranzas, mediacion, mediador, estudio jurídico, legal, legales, juridico, estudio juridico, lawyer, attorney, bufete, despacho, santa rosa, la pampa, argentina" />
 
 {% if page.excerpt %}
 <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
@@ -37,9 +21,17 @@
 {% endif %}
 
 {% if page.image %}
-<meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
-<meta property="twitter:image" content="{{ site.url }}{{ page.image }}"/>
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+<meta property="twitter:image" content="{{ site.url }}{{ page.image }}" />
 {% else %}
-<meta property="og:image" content="{{ site.url }}{{ site.avatar }}"/>
-<meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}"/>
+<meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+<meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
 {% endif %}
+
+<!-- 
+agregados manualmente
+-->
+
+<meta property="twitter:domain" content="https://estudionale.com/" />
+<meta property="twitter:url" content="estudionale" />
+<meta name="twitter:description" content="Estudio de abogados. Servicios Jurídicos. Santa Rosa La Pampa." />
