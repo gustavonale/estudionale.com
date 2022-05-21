@@ -1,3 +1,4 @@
+<!--
 *******************************************************
 https://searchenginereports.net/es/open-graph-generator
 *******************************************************
@@ -10,11 +11,11 @@ https://searchenginereports.net/es/open-graph-generator
 <meta property="og:image" content="/images/balanza-justicia.png">
 
 
+
+
 *******************************************************
 https://www.opengraph.xyz
 *******************************************************
-
-
 
 <!-- HTML Meta Tags -->
 <title>Abogados - Estudio Nale</title>
@@ -34,4 +35,4 @@ https://www.opengraph.xyz
 <meta name="twitter:title" content="Abogados - Estudio Nale">
 <meta name="twitter:description" content="Estudio de abogados. Servicios Jurídicos. Santa Rosa La Pampa.">
 <meta name="twitter:image" content="/images/balanza-justicia.png">
-      
+-->
