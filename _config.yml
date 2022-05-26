@@ -58,8 +58,8 @@ enforce_ssl: https://estudionale.com
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: "/reverie"
-# baseurl: "https://estudionale.com"
+# baseurl: ""
+# baseurl: ""
 
 
 #
