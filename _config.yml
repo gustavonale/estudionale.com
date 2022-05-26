@@ -1,6 +1,4 @@
-#
 # This file contains configuration flags to customize your site
-#
 
 # Name of your site (displayed in the header)
 name: Estudio Nale
@@ -14,9 +12,7 @@ description: Servicios Jurídicos - Santa Rosa La Pampa.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/balance.png
 
-#
 # Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -59,10 +55,7 @@ enforce_ssl: https://estudionale.com
 # baseurl: ""
 # baseurl: ""
 
-
-#
 # !! You don't need to change any of the configuration flags below !!
-#
 
 permalink: /:title/
 
@@ -105,4 +98,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-   # - inicio.html
