@@ -1,6 +1,6 @@
 ---  
-layout: page  
-title: Abogado  
+layout: page
+title: Abogado
 permalink: /
 ---  
 
