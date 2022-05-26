@@ -2,6 +2,7 @@
 # This file is at `./index.md`
 layout: page
 title: Abogado
+permalink: /
 ---
 ###### Gustavo David Nale
 
