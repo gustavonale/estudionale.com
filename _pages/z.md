@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Abogado  
-permalink: /z/  
+permalink: /  
 ---  
 
 ###### Abogado  
