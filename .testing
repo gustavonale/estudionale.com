@@ -1,8 +1,9 @@
 <!--
 *******************************************************
 https://stackoverflow.com/questions/48933419/opengraph-prefix-in-header-necessary
+https://stackoverflow.com/questions/10863314/what-all-should-i-add-in-head-tag
 *******************************************************
-
+<html lang="es-419" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
 
 <html lang="{lang}" prefix="og: http://ogp.me/ns#">
   <head>
