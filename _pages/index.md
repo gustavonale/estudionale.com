@@ -18,10 +18,10 @@ permalink: /
 <dt class="email type" title="email"></dt><dd class="email"><a href="mailto:estudionale@gmail.com">estudionale@gmail.com</a></dd>
 <dt></dt>
 <dd class="geo">
-<p class="geo">
-<p <class="latitude" title="-36.6174752256399"><abbr title="South"></abbr></p>
-<p <class="longitude" title="-64.29387766455498"><abbr title="West"></abbr></p>
-</p>
+<div class="geo">
+<div class="latitude" title="-36.6174752256399"><abbr title="South"></abbr></div>
+<div class="longitude" title="-64.29387766455498"><abbr title="West"></abbr></div>
+</div>
 </dd>
 </dl>
 </dd>
