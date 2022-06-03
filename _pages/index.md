@@ -1,7 +1,7 @@
 ---  
 layout: default
 title: Abogado
-permalink: /test/
+permalink: /
 ---  
 
 <dl class="vcard">
