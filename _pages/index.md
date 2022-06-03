@@ -8,7 +8,7 @@ permalink: /
 <dt class="fn n org"><strong>Gustavo David Nale</strong></dt>
 <dd><address class="adr">
 <span class="street-address"><a href="https://goo.gl/maps/hynDNxgQxEcvqeXe8">Gral. Pico 74</a></span>, 
-<span class="postal-code">L6300DQB</span> 
+<span class="postal-code">6300</span> 
 <span class="locality">Santa Rosa</span>, 
 <abbr class="region" title="La Pampa">La Pampa</abbr>, 
 
