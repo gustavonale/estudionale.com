@@ -5,7 +5,7 @@ permalink: /test/
 ---  
 
 <dl class="vcard">
-<dt class="fn n org"><strong>Estudio Jurídico Nale</strong></dt>
+<dt class="fn n org"><strong>Gustavo David Nale</strong></dt>
 <dd><address class="adr">
 <span class="street-address">Gral. Pico 74</span>, 
 <span class="locality">Santa Rosa</span>, 
