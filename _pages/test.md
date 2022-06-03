@@ -16,7 +16,7 @@ permalink: /test/
                         <dt class="tel type" title="Teléfono celular">Celular</dt> <dd class="tel value">+54-9-2954-529500</dd>
                         <dt class="email type" title="e-mail"></dt> <dd class="email">estudionale@gmail.com</dd>
 
-                        <dt>Ubicación:</dt>
+                        <dt></dt>
                         <dd class="geo">
                                 <p class="geo">
                                 <p class="latitude" title="-36.61731753022605"></p>
