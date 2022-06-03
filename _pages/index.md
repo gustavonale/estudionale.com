@@ -1,11 +1,12 @@
 ---  
 layout: page
-title: Abogado
+title: 
 permalink: /
 ---  
 
 <dl class="vcard">
 <dt class="fn n org"><strong>Gustavo David Nale</strong></dt>
+<p><h1>abogado</h1></p>
 <dd><address class="adr">
 <span class="street-address">⚖  <a href="https://goo.gl/maps/hynDNxgQxEcvqeXe8" target="_blank" rel="noopener, noreferrer, nofollow">Gral. Pico 74</a></span>, 
 <span class="postal-code">6300</span> 
