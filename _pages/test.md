@@ -18,10 +18,10 @@ permalink: /test/
 
                         <dt>Ubicación:</dt>
                         <dd class="geo">
-                                <ul class="geo">
-                                <li class="latitude" title="-36.61731753022605"></li>
-                                <li class="longitude" title="-64.29404329091872"></li>
-                                </ul>
+                                <p class="geo">
+                                <p class="latitude" title="-36.61731753022605"></p>
+                                <p class="longitude" title="-64.29404329091872"></p>
+                                </p>
                         </dd>
                 </dl>
         </dd>
