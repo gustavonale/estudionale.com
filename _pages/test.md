@@ -7,8 +7,8 @@ permalink: /test/
 <dl class="vcard">
         <dt class="fn n org"><strong>Estudio Jurídico Nale</strong></dt>
         <dd><address class="adr">
-                <span class="street-address">Gral. Pico 74</span><br />
-                <span class="locality">Santa Rosa</span>, 
+                <span class="street-address" title="Gral. Pico 74">Gral. Pico 74</span><br />
+                <span class="locality" title="Santa Rosa">Santa Rosa</span>, 
                 <abbr class="region" title="La Pampa">La Pampa</abbr>, 
                 <span class="postal-code">L6300DQB</span>, 
                 <abbr class="country-name" title="Argentina">Argentina</abbr></address>
