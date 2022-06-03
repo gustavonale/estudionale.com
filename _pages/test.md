@@ -18,8 +18,8 @@ permalink: /test/
 <dt></dt>
 <dd class="geo">
 <p class="geo">
-<p class="latitude" title="-36.61731753022605"><abbr title="Sur"></abbr></p>
-<p class="longitude" title="-64.29404329091872"><abbr title="Oeste"></abbr></p>
+<p class="latitude" title="-36.617274473398545"><abbr title="Sur"></abbr></p>
+<p class="longitude" title="-64.29392527372526"><abbr title="Oeste"></abbr></p>
 </p>
 </dd>
 </dl>
