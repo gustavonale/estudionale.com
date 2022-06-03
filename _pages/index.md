@@ -15,7 +15,7 @@ permalink: /
 <abbr class="country-name" title="Argentina">Argentina.</abbr></address>
 <dl>
 <dt class="tel type" title="mobile"></dt><dd class="tel value">📞 <a href="tel:+5492954529500">(+54 9) 2954-529500</a></dd>
-<dt class="email type" title="email"></dt><dd class="email">✉ <a href="mailto:estudionale@gmail.com">estudionale@gmail.com</a></dd>
+<dt class="email type" title="email"></dt><dd class="email">✉ <a href="mailto:estudionale@gmail.com" target="_blank" rel="noopener, noreferrer, nofollow">estudionale@gmail.com</a></dd>
 <dt></dt>
 <dd class="geo">
 <div class="geo">
