@@ -20,8 +20,8 @@ permalink: /
 <dt></dt>
 <dd class="geo">
 <div class="geo">
-<div class="latitude" title="-36.6174752256399"><abbr title="South"></abbr></div>
-<div class="longitude" title="-64.29387766455498"><abbr title="West"></abbr></div>
+<div class="latitude" title="-36.617562"><abbr title="South"></abbr></div>
+<div class="longitude" title="-64.293937"><abbr title="West"></abbr></div>
 </div>
 </dd>
 </dl>
