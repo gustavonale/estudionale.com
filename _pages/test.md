@@ -1,5 +1,5 @@
 ---  
-layout: page
+layout: default
 title: Abogado
 permalink: /test/
 ---  
@@ -14,16 +14,15 @@ permalink: /test/
                 <abbr class="country-name" title="Argentina">Argentina</abbr></address>
                 <dl>
                         <dt class="tel type" title="Teléfono celular">Celular</dt> <dd class="tel value">+54-9-2954-529500</dd>
-                        <dt class="email type" title="e-mail">Work</dt> <dd class="email">estudionale@gmail.com</dd>
+                        <dt class="email type" title="e-mail">Despacho</dt> <dd class="email">estudionale@gmail.com</dd>
 
                         <!-- Si añadimos Geodatos extra quedaría así: -->
                         <dt>Ubicación:</dt>
                         <dd class="geo">
-                                <ul class="geo">
-                                <li class="latitude" title="-36.61731753022605"></li>
-                                <li class="longitude" title="-64.29404329091872"></li>
-                                </ul>
-                        </dd>
+                                <class="geo">
+                                <class="latitude" title="-36.61731753022605">
+                                <class="longitude" title="-64.29404329091872">
+                                </dd>
                 </dl>
         </dd>
 </dl>
