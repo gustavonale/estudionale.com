@@ -7,7 +7,7 @@ permalink: /
 <dl class="vcard">
 <dt class="fn n org"><strong>Gustavo David Nale</strong></dt>
 <dd><address class="adr">
-<span class="street-address">⚖ <a href="https://goo.gl/maps/hynDNxgQxEcvqeXe8">Gral. Pico 74</a></span>, 
+<span class="street-address">⚖ <a href="https://goo.gl/maps/hynDNxgQxEcvqeXe8" target="_blank" rel="noopener, noreferrer, nofollow">Gral. Pico 74</a></span>, 
 <span class="postal-code">6300</span> 
 <span class="locality">Santa Rosa</span>, 
 <abbr class="region" title="La Pampa">La Pampa</abbr>, 
