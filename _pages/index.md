@@ -6,7 +6,7 @@ permalink: /
 
 <dl class="vcard">
 <dt class="fn n org"><strong>Gustavo David Nale</strong></dt>
-<strong>abogado</strong>>
+<strong>abogado</strong>
 <dd><address class="adr">
 <span class="street-address">⚖  <a href="https://goo.gl/maps/hynDNxgQxEcvqeXe8" target="_blank" rel="noopener, noreferrer, nofollow">Gral. Pico 74</a></span>, 
 <span class="postal-code">6300</span> 
