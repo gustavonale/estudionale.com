@@ -4,27 +4,12 @@ title: Abogado
 permalink: /test/
 ---  
 
- <!--
-###### Abogado  
-
-###### Gustavo David Nale  
-
-###### (02954) 15-529500  
-
-###### [![](/images/whatsapp.png)](https://wa.me/5492954529500/) [![](/images/telegram.png)](https://t.me/gustavo_ok/)  
--->
-
-
-
-
-
-
 <dl class="vcard">
         <dt class="fn n org"><strong>Estudio Jurídico Nale</strong></dt>
         <dd><address class="adr">
                 <span class="street-address">Gral. Pico 74</span><br />
                 <span class="locality">Santa Rosa</span>, 
-                <abbr class="region" title="La Pampa">LP</abbr>, 
+                <abbr class="region" title="La Pampa">La Pampa</abbr>, 
                 <span class="postal-code">L6300DQB</span>, 
                 <abbr class="country-name" title="Argentina">Argentina</abbr></address>
                 <dl>
@@ -42,3 +27,18 @@ permalink: /test/
                 </dl>
         </dd>
 </dl>
+
+
+
+
+
+
+<!--
+###### Abogado  
+
+###### Gustavo David Nale  
+
+###### (02954) 15-529500  
+
+###### [![](/images/whatsapp.png)](https://wa.me/5492954529500/) [![](/images/telegram.png)](https://t.me/gustavo_ok/)  
+-->
