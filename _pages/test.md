@@ -14,7 +14,7 @@ permalink: /test/
                 <abbr class="country-name" title="Argentina">Argentina</abbr></address>
                 <dl>
                         <dt class="tel type" title="Teléfono celular">Celular</dt> <dd class="tel value">+54-9-2954-529500</dd>
-                        <dt class="email type" title="e-mail">Despacho</dt> <dd class="email">estudionale@gmail.com</dd>
+                        <dt class="email type" title="e-mail"></dt> <dd class="email">estudionale@gmail.com</dd>
 
                         <dt>Ubicación:</dt>
                         <dd class="geo">
