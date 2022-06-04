@@ -1,13 +1,13 @@
 # This file contains configuration flags to customize your site
 
 # Name of your site (displayed in the header)
-name: Estudio Jurídico Nale
+name: Estudio Nale
 
 # Name of the author
 author: Gustavo David Nale
 
 # Short bio or description (displayed in the header)
-description: Servicios Jurídicos - Santa Rosa La Pampa.
+description: Abogado. Servicios Jurídicos en Santa Rosa La Pampa.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
@@ -77,7 +77,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed vs :expanded
+  style: :compressed # You might prefer to minify using :compressed vs :expanded
 
 # Use the following plug-ins
 plugins:
