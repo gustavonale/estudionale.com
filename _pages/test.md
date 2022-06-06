@@ -13,7 +13,8 @@ permalink: /test/
     <span class="region">La Pampa</span>,
     <span class="postal-code">L6300DQB</span>
     <span class="country-name">AR</span>
-    </div><div class="tel">+5492954529500</div><div class="url">https://estudionale.com/</div><p style="font-size: .8em;">This hCard was created by using hCardCreator.com. (<a href="http://hcardcreator.com">more…</a>)</p></div></address>
+    </div><div class="tel">+5492954529500</div><div class="url">https://estudionale.com/</div>
+<!--p style="font-size: .8em;">This hCard was created by using hCardCreator.com. (<a href="http://hcardcreator.com">more…</a>)</p--></div></address>
 
 
 <br/>
