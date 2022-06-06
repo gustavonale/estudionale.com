@@ -3,7 +3,7 @@ layout: default
 title: Abogado
 permalink: /test/
 ---  
-<address><div class="vcard" <!--style="border: 1px dashed #aaa; padding: 3px 5px;"-->>
+<address><div class="vcard">
 <!--img style="float: right; margin-left: 5px" src="https://estudionale.com/images/logo.svg" alt="Gustavo Nale" class="photo"/--><strong><span class="fn n">
     <span class="given-name">Gustavo</span>
     <span class="additional-name">David</span>
