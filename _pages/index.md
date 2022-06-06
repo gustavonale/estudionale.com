@@ -13,7 +13,7 @@ permalink: /
 <span class="postal-code">6300</span> 
 <span class="locality">Santa Rosa</span>, 
 <abbr class="region" title="La Pampa">La Pampa</abbr>,
-<abbr class="country-name" title="Argentina">Argentina</abbr>.</address>
+<abbr class="country-name" title="AR">AR</abbr>.</address>
 <dl>
 <dt class="tel type" title="mobile"></dt><dd class="tel value">📞  <a href="tel:+5492954529500">(+54 9) 2954-529500</a></dd>
 <dt class="email type" title="email"></dt><dd class="email">✉  <a href="mailto:estudionale@gmail.com" target="_blank" rel="noopener noreferrer">estudionale@gmail.com</a></dd>
@@ -46,5 +46,5 @@ permalink: /
     <span class="locality">Santa Rosa</span>, 
     <span class="region">La Pampa</span>,
     <span class="postal-code">L6300DQB</span>
-    <span class="country-name">Argentina</span>
+    <span class="country-name">AR</span>
     </div><div class="tel">+5492954529500</div><div class="url">https://estudionale.com/</div><p style="font-size: .8em;">This hCard was created by using hCardCreator.com. (<a href="http://hcardcreator.com">more…</a>)</p></div></address>
