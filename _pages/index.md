@@ -7,8 +7,7 @@ permalink: /
 <dl class="vcard">
 <dt class="fn n org"><strong>Gustavo David Nale</strong></dt>
 <strong>abogado</strong>
-<dd><address class="adr">
-<span class="street-address">⚖  <a href="https://www.google.com.ar/maps/place/Estudio+Jur%C3%ADdico+Nale/@-36.6175027,-64.2961247,17z/data=!3m1!4b1!4m5!3m4!1s0x95c2cd08e24613a7:0x32b2c5e7a10f6320!8m2!3d-36.617507!4d-64.293936?hl=es" target="_blank" rel="noopener noreferrer">Gral. Pico 74</a></span>, 
+<dd><address class="adr">⚖  <span class="street-address"><a href="https://www.google.com.ar/maps/place/Estudio+Jur%C3%ADdico+Nale/@-36.6175027,-64.2961247,17z/data=!3m1!4b1!4m5!3m4!1s0x95c2cd08e24613a7:0x32b2c5e7a10f6320!8m2!3d-36.617507!4d-64.293936?hl=es" target="_blank" rel="noopener noreferrer">Gral. Pico 74</a></span>, 
 <span class="postal-code">6300</span> 
 <span class="locality">Santa Rosa</span> 
 <abbr class="region" title="La Pampa">La Pampa</abbr>
