@@ -23,5 +23,10 @@ permalink: /test/
         <span class="postal-code">L6300DQB</span>
         <span class="country-name">AR</span>
     </div>
-    <div class="tel">+5492954529500</div>
+    
+    <a href="tel:+5492954529500">
+    <div class="tel">+5492954529500</div></a>
     <div class="url">https://estudionale.com/</div>
+
+    
+    <a href="tel:+5492954529500">
