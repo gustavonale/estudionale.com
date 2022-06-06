@@ -13,7 +13,7 @@ permalink: /
 <span class="postal-code">6300</span> 
 <span class="locality">Santa Rosa</span>, 
 <abbr class="region" title="La Pampa">La Pampa</abbr>,
-<abbr class="country-name" title="Argentina">Argentina</abbr></address>.
+<abbr class="country-name" title="Argentina">Argentina</abbr>.</address>
 <dl>
 <dt class="tel type" title="mobile"></dt><dd class="tel value">📞  <a href="tel:+5492954529500">(+54 9) 2954-529500</a></dd>
 <dt class="email type" title="email"></dt><dd class="email">✉  <a href="mailto:estudionale@gmail.com" target="_blank" rel="noopener noreferrer">estudionale@gmail.com</a></dd>
