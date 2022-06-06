@@ -27,4 +27,3 @@ permalink: /test/
     <div class="url">https://estudionale.com/</div>
 
     
-    <a href="tel:+5492954529500">
