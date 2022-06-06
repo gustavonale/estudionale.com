@@ -4,11 +4,13 @@ title: Abogado
 permalink: /test/
 ---  
 <address><div class="vcard">
-<!--img style="float: right; margin-left: 5px" src="https://estudionale.com/images/logo.svg" alt="Gustavo Nale" class="photo"/--><strong><span class="fn n">
+<!--img style="float: right; margin-left: 5px" src="https://estudionale.com/images/logo.svg" alt="Gustavo Nale" class="photo"/-->
+    <span class="fn n"><strong>
     <span class="given-name">Gustavo</span>
     <span class="additional-name">David</span>
     <span class="family-name">Nale</span>
-    </span></strong><div class="org">abogado</div><a class="email" href="mailto:estudionale@gmail.com">estudionale@gmail.com</a><div class="adr">
+    </strong></span>
+    <div class="org"><italic>abogado</italic></div><a class="email" href="mailto:estudionale@gmail.com">estudionale@gmail.com</a><div class="adr">
     <div class="street-address">General Pico 74</div>
     <span class="locality">Santa Rosa</span>, 
     <span class="region">La Pampa</span>,
