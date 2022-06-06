@@ -3,15 +3,6 @@ layout: default
 title: Abogado
 permalink: /test/
 ---  
-
-<br/><br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
 <address><div class="vcard" style="border: 1px dashed #aaa; padding: 3px 5px;"><img style="float: right; margin-left: 5px" src="https://estudionale.com/images/logo.svg" alt="Gustavo Nale" class="photo"/><span class="fn n">
     <span class="given-name">Gustavo</span>
     <span class="additional-name">David</span>
@@ -23,3 +14,10 @@ permalink: /test/
     <span class="postal-code">L6300DQB</span>
     <span class="country-name">AR</span>
     </div><div class="tel">+5492954529500</div><div class="url">https://estudionale.com/</div><p style="font-size: .8em;">This hCard was created by using hCardCreator.com. (<a href="http://hcardcreator.com">more…</a>)</p></div></address>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
