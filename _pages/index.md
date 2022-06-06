@@ -8,7 +8,7 @@ permalink: /
 <dt class="fn n org"><strong>Gustavo David Nale</strong></dt>
 <strong>abogado</strong>
 <dd><address class="adr">
-<span class="street-address">⚖  <a href="https://goo.gl/maps/hynDNxgQxEcvqeXe8" target="_blank" rel="noopener, noreferrer">Gral. Pico 74>
+<span class="street-address">⚖  <a href="https://goo.gl/maps/hynDNxgQxEcvqeXe8" target="_blank" rel="noopener, noreferrer">Gral. Pico 74
 </span>, 
 <span class="postal-code">6300</span> 
 <span class="locality">Santa Rosa</span>, 
