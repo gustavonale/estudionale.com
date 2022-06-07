@@ -24,6 +24,4 @@ permalink: /test/
         <span class="country-name">AR</span>
     </div>
     <div class="tel"><a href="tel:+5492954529500">+5492954529500</a></div>
-    <div class="url"><a href="https://estudionale.com/">https://estudionale.com/</a>
-    </div>
-    </address> 
+    <div class="url"><a href="https://estudionale.com/">https://estudionale.com/</a></div></address>
