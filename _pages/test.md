@@ -21,9 +21,17 @@ permalink: /test/
         <span class="country-name">AR</span>.</div>
     </div><div class="tel">📞 <a href="tel:+5492954529500">+5492954529500</a></div>
     <div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
- </address>
- 
- 
- {{ site.description }}
- 
- {{ page.description }}
+</address>
+<br/><br/>
+site.description
+{{ site.description }}
+<br/>
+page.description
+{{ page.description }}
+<br/>
+author
+{{ author }}
+
+<br/>
+<br/>
+<br/>
