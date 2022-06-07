@@ -23,15 +23,25 @@ permalink: /test/
     <div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
 </address>
 <br/><br/>
-site.description
+site.description:<br/>
 {{ site.description }}
-<br/>
-page.description
+<br/><br/>
+page.description:<br/>
 {{ page.description }}
-<br/>
-author
+<br/><br/>
+author:<br/>
 {{ author }}
+<br/><br/>
+site.url:<br/>
+{{ site.url }}
 
-<br/>
-<br/>
-<br/>
+
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
