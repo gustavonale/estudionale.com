@@ -49,12 +49,8 @@ page.excerpt
 {{ page.excerpt }}
 <br/><br/>
 
-page.excerpt| strip_html
-{{ page.excerpt| strip_html }}
-<br/><br/>
-
 site.author:<br/>
-{{site.author}}
+{{ site.author }}
 <br/><br/>
 
 
