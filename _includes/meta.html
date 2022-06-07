@@ -8,6 +8,7 @@
 <meta name="rating" content="general" />
 <meta name="language" content="es-419" />
 
+
 {% if page.excerpt %}
 <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
 {% elsif page.description %}
@@ -21,8 +22,6 @@
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 {% endif %}
-
-<!-- aca agregue sizes="1616x1269", og:image:width y og:image:height el sab 21/may/2022-->
 
 {% if page.image %}
 <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
