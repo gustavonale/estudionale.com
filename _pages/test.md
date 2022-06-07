@@ -22,18 +22,48 @@ permalink: /test/
     </div><div class="tel">📞 <a href="tel:+5492954529500">+5492954529500</a></div>
     <div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
 </address>
+
 <br/><br/>
+
 site.description:<br/>
 {{ site.description }}
 <br/><br/>
+
+site.url:<br/>
+{{ site.url }}
+<br/><br/>
+
+site.name:<br/>
+{{ site.name }}
+<br/><br/>
+
 page.description:<br/>
 {{ page.description }}
 <br/><br/>
+
+page.title:<br/>
+{{ page.title }}
+<br/><br/>
+
+page.excerpt
+{{ page.excerpt }}
+<br/><br/>
+
+page.excerpt| strip_html
+{{ page.excerpt| strip_html }}
+<br/><br/>
+
 author:<br/>
 {{ author }}
 <br/><br/>
-site.url:<br/>
-{{ site.url }}
+
+
+
+
+
+
+
+
 
 
 
