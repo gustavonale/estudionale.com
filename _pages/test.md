@@ -24,6 +24,11 @@ permalink: /test/
 </address>
 
 <br/><br/>
+<br/><br/>
+
+site.author:<br/>
+{{ site.author }}
+<br/><br/>
 
 site.baseurl:<br/>
 {{ site.baseurl }}
