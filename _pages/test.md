@@ -19,6 +19,6 @@ permalink: /test/
         <span class="region">La Pampa</span>,
         <span class="postal-code">L6300DQB</span>,
         <span class="country-name">AR</span>.</div>
-    </div><div class="tel">📞 <a href="tel:+5492954529500">+5492954529500</a></div>
+    </div>📞 <div class="tel"><a href="tel:+5492954529500">+5492954529500</a></div>
     <div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
  </address>
