@@ -37,7 +37,6 @@
 {% endif %}
 
 
-
 <meta property="og:type" content="profile" />
 <meta property="og:locale" content="es_la" />
 <meta property="twitter:domain" content="estudionale.com" />
@@ -50,12 +49,8 @@
 <meta name="yandex-verification" content="a8b740b5ac29b6b7" />
 
 
-
-
-
-
 <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<meta name="dc.title" content="{{ site.description }}" />
+<meta name="dc.title" content="{{ site.name }}" />
 <meta name="dc.language" content="es" />
 <meta name="dc.subject" content="abogado" />
 <meta name="dc.description" content="{{ site.description }}" />
@@ -70,42 +65,8 @@
 <meta name="dc.relation" content="https://ar.pinterest.com/estudionale/" />
 
 
-
-<!--
-<head profile="http://dublincore.org/documents/2008/08/04/dc-html/">
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
-<meta name="DC.Title" content="Estudio Jurídico Nale" />
-<meta name="DC.Creator" content="Gustavo David Nale" />
-<meta name="DC.Subject" content="abogado" />
-<meta name="DC.Description" content="Servicios Jurídicos en Santa Rosa La Pampa AR" />
-<meta name="DC.Language" content="es" />
--->
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-     {
-         "@type": "ListItem",
-         "position": 1,
-         "name": "Estudio Jurídico Nale",
-         "item": "https://estudionale.com/"
-     }
- ]
-}
-</script>
-
-
 <script type='application/ld+json'>
-{
-  "@context": "https://www.schema.org",
+{ "@context": "https://www.schema.org",
   "@type": "abogado",
   "name": "Gustavo David Nale",
   "url": "{{ site.url }}/",
@@ -123,9 +84,17 @@
   "geo": {
      "@type": "GeoCoordinates",
      "latitude": "-36.617537139690874",
-     "longitude": "-64.29392527116423"
-  },
+     "longitude": "-64.29392527116423"},
   "hasMap": "https://www.google.com.ar/maps/place/Estudio+Jur%C3%ADdico+Nale/@-36.6175027,-64.2961247,17z/data=!3m1!4b1!4m5!3m4!1s0x95c2cd08e24613a7:0x32b2c5e7a10f6320!8m2!3d-36.617507!4d-64.293936?hl=es",
-  "telephone": "+5492954529500"
-}
+  "telephone": "+5492954529500"}
+</script>
+
+<script type="application/ld+json">
+  {  "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {   "@type": "ListItem",
+         "position": 1,
+         "name": "Estudio Jurídico Nale",
+         "item": "https://estudionale.com/" } ] }
 </script>
