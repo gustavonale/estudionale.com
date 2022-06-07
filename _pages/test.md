@@ -5,13 +5,11 @@ permalink: /test/
 ---  
 <address><div class="vcard">
 <!--img style="float: right; margin-left: 5px" src="https://estudionale.com/images/logo.svg" alt="Gustavo Nale" class="photo"/-->
-    <strong>
         <span class="fn n">
-        <span class="given-name">Gustavo</span>
-        <span class="additional-name">David</span>
-        <span class="family-name">Nale</span>
+        <span class="given-name"><strong>Gustavo</strong></span>
+        <span class="additional-name"><strong>David</strong></span>
+        <span class="family-name"><strong>Nale</strong></span>
         </span>
-        </strong>
     <em>
         <div class="org">abogado</div>
     </em>
@@ -24,4 +22,5 @@ permalink: /test/
         <span class="country-name">AR</span>
     </div>
     <div class="tel"><a href="tel:+5492954529500">+5492954529500</a></div>
-    <div class="url"><a href="https://estudionale.com/">https://estudionale.com/</a></div></address>
+    <div class="url"><a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
+ </address>
