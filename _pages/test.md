@@ -15,7 +15,7 @@ permalink: /test/
     </em>
     <a class="email" href="mailto:estudionale@gmail.com">estudionale@gmail.com</a>
     <div class="adr">
-    <div class="street-address">General Pico 74</div>
+    <div class="street-address"><a href="https://www.google.com.ar/maps/place/Estudio+Jur%C3%ADdico+Nale/@-36.6175027,-64.2961247,17z/data=!3m1!4b1!4m5!3m4!1s0x95c2cd08e24613a7:0x32b2c5e7a10f6320!8m2!3d-36.617507!4d-64.293936?hl=es">General Pico 74</a></div>
         <span class="locality">Santa Rosa</span>, 
         <span class="region">La Pampa</span>,
         <span class="postal-code">L6300DQB</span>
