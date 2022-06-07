@@ -25,6 +25,10 @@ permalink: /test/
 
 <br/><br/>
 
+site.baseurl:<br/>
+{{ site.baseurl }}
+<br/><br/>
+
 site.description:<br/>
 {{ site.description }}
 <br/><br/>
