@@ -58,9 +58,6 @@ page.excerpt
 {{ page.excerpt }}
 <br/><br/>
 
-site.author:<br/>
-{{ site.author }}
-<br/><br/>
 
 
 
