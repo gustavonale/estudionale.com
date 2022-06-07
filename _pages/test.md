@@ -1,6 +1,6 @@
 ---  
 layout: page
-title: Abogado
+title:
 permalink: /test/
 ---  
 <address><div class="vcard">
