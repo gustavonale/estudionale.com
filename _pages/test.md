@@ -53,8 +53,8 @@ page.excerpt| strip_html
 {{ page.excerpt| strip_html }}
 <br/><br/>
 
-author:<br/>
-{{ author }}
+site.author:<br/>
+{{site.author}}
 <br/><br/>
 
 
