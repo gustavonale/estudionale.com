@@ -35,6 +35,7 @@
 
 {% if page.image %}
 <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+<meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}" />
 <!--meta property="og:image:width" content="1616" /-->
 <!--meta property="og:image:height" content="1269" /-->
 <meta property="twitter:image" content="{{ site.url }}{{ page.image }}" />
@@ -42,6 +43,7 @@
 <!--meta property="og:image" content="{{ site.url }}{{ site.avatar }}" /-->
 <!--meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}" sizes="1616x1269" /-->
 <meta property="og:image" content="{{ site.url }}/images/profile1200x628.png" />
+<meta property="og:image:secure_url" content="{{ site.url }}/images/profile1200x628.png" />
 <meta property="twitter:image" content="{{ site.url }}/images/profile1200x628.png" />
 {% endif %}
 
