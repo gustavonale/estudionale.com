@@ -23,8 +23,7 @@ permalink: /test/
     <div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
 </address>
 
-<br/><br/>
-<br/><br/>
+<br/><br/><br/><br/>
 
 site.author:<br/>
 {{ site.author }}
@@ -54,18 +53,13 @@ page.title:<br/>
 {{ page.title }}
 <br/><br/>
 
-page.excerpt
+page.excerpt<br/>
 {{ page.excerpt }}
 <br/><br/>
 
-
-
-
-
-
-
-
-
+enforce_ssl<br/>
+{{ enforce_ssl }}
+<br/><br/>
 
 
 
