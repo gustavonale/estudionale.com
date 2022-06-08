@@ -21,6 +21,15 @@
 <meta name="twitter:creator" content="@estudionale" />
 
 
+
+<meta itemprop="name" content="{{ site.name }}" />
+<meta itemprop="description" content="{{ site.description }}" />
+<meta itemprop="image" content="{{ site.url }}{{ page.image }}" />
+
+
+
+
+
 {% if page.excerpt %}
 <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
 {% elsif page.description %}
