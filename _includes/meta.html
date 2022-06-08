@@ -81,12 +81,13 @@
 
 
 <script type='application/ld+json'>
-{ "@context": "https://www.schema.org",
+{ "@context": "https://www.schema.org/",
   "@type": "Attorney",
   "name": "{{ site.author }}",
   "url": "{{ site.url }}/",
-  "logo": "{{ site.url }}/images/logo.svg",
-  "image": "{{ site.url }}/images/logo.svg",
+  "logo": "{{ site.url }}{{ site.avatar }}",
+  "priceRange": "$$$",
+  "image": "{{ site.url }}{{ site.avatar }}",
   "description": "{{ site.description }}",
   "address": {
      "@type": "PostalAddress",
@@ -105,7 +106,7 @@
 </script>
 
 <script type="application/ld+json">
-  {  "@context": "https://schema.org",
+  {  "@context": "https://schema.org/",
     "@type": "BreadcrumbList",
     "itemListElement": [
      {   "@type": "ListItem",
@@ -113,6 +114,69 @@
          "name": "{{ site.name }}",
          "item": "{{ site.url }}/" } ] }
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "Attorney",
+  "name": "Gustavo David Nale",
+  "url": "https://estudionale.com/",
+  "sameAs": [
+     ""
+  ],
+  "logo": "https://estudionale.com/images/logo.png",
+  "priceRange": "$$$",
+  "image": "https://estudionale.com/images/logo.png",
+  "description": "Abogado. Servicios Jurídicos en Santa Rosa La Pampa.",
+  "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "General Pico 74",
+     "addressLocality": "Santa Rosa",
+     "addressRegion": "La Pampa",
+     "postalCode": "L6300DQB",
+     "addressCountry": "Argentina"
+  },
+  "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "-36.617537139690874",
+     "longitude": "-64.29392527116423"
+  },
+  "hasMap": "https://www.google.com.ar/maps/place/Estudio+Jur%C3%ADdico+Nale/@-36.6175027,-64.2961247,17z/data=!3m1!4b1!4m5!3m4!1s0x95c2cd08e24613a7:0x32b2c5e7a10f6320!8m2!3d-36.617507!4d-64.293936?hl=es",
+  "telephone": "+5492954529500"
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 <meta itemprop="name" content="{{ site.name }}" />
