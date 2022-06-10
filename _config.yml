@@ -84,6 +84,7 @@ kramdown:
 sass:
   style: :compressed # You might prefer to minify using :compressed vs :expanded
 
+
 # Use the following plug-ins
 plugins:
   # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
@@ -92,7 +93,6 @@ plugins:
   # - jekyll-paginate
 
 include: ['_pages']
-
  # paginate: 10
  # paginate_path: /page:num/
 
