@@ -11,8 +11,14 @@ description: Abogado. Servicios Jurídicos en Santa Rosa La Pampa.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
-alt: Abogado - Servicios Jurídicos en Santa Rosa La Pampa - Gustavo David Nale - Estudio Nale - estudionale@gmail.com - estudionale.com
 
+
+alt: Abogado - Servicios Jurídicos en Santa Rosa La Pampa - Gustavo David Nale - Estudio Nale - estudionale@gmail.com - estudionale.com
+languages:
+  - es
+  - en
+  
+  
 # Flags below are optional
 
 # Includes an icon in the footer for each username you enter
