@@ -12,6 +12,8 @@ Allow: /BingSiteAuth.xml
 Allow: /yandex_a8b740b5ac29b6b7.html
 Allow: /.well-known/brave-rewards-verification.txt
 Allow: /1gx07x6c41lmgjkwvzqyh7tt5juenr.html
+Allow: /pinterest-d5ef8.html
+
 # Disallow: /_*/
 # Disallow: /.*/
 # Disallow: /assets/
