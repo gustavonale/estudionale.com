@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /ini*.*l
+Disallow: /.well-known/
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
@@ -10,7 +11,6 @@ Allow: /BingSiteAuth.xml
 Allow: /yandex_a8b740b5ac29b6b7.html
 Allow: /1gx07x6c41lmgjkwvzqyh7tt5juenr.html
 Allow: /pinterest-d5ef8.html
-Disallow: /.well-known/
 # Allow: /CNAME
 # Disallow: /_*/
 # Disallow: /.*/
