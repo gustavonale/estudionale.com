@@ -2,7 +2,7 @@ User-agent: *
 Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /ini*.*l
-Disallow: /.well-known/
+Disallow: /.well-kn*/
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
