@@ -5,13 +5,13 @@ Disallow: /ini*.*l
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
+Allow: /googlea63fae354dd2d06a.html
+Allow: /BingSiteAuth.xml
+Allow: /yandex_a8b740b5ac29b6b7.html
+Allow: /1gx07x6c41lmgjkwvzqyh7tt5juenr.html
+Allow: /pinterest-d5ef8.html
+Disallow: /.well-known/
 # Allow: /CNAME
-# Allow: /googlea63fae354dd2d06a.html
-# Allow: /BingSiteAuth.xml
-# Allow: /yandex_a8b740b5ac29b6b7.html
-# Allow: /.well-known/brave-rewards-verification.txt
-# Allow: /1gx07x6c41lmgjkwvzqyh7tt5juenr.html
-# Allow: /pinterest-d5ef8.html
 # Disallow: /_*/
 # Disallow: /.*/
 # Disallow: /assets/
