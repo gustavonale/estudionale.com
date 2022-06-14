@@ -2,25 +2,22 @@ User-agent: *
 Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /ini*.*l
-Disallow: /feed.xml
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
-Allow: /CNAME
-Allow: /googlea63fae354dd2d06a.html
-Allow: /BingSiteAuth.xml
-Allow: /yandex_a8b740b5ac29b6b7.html
-Allow: /.well-known/brave-rewards-verification.txt
-Allow: /1gx07x6c41lmgjkwvzqyh7tt5juenr.html
-Allow: /pinterest-d5ef8.html
-
+# Allow: /CNAME
+# Allow: /googlea63fae354dd2d06a.html
+# Allow: /BingSiteAuth.xml
+# Allow: /yandex_a8b740b5ac29b6b7.html
+# Allow: /.well-known/brave-rewards-verification.txt
+# Allow: /1gx07x6c41lmgjkwvzqyh7tt5juenr.html
+# Allow: /pinterest-d5ef8.html
 # Disallow: /_*/
 # Disallow: /.*/
 # Disallow: /assets/
 # Disallow: /fonts/
 # Disallow: /images/
 # Disallow: /cdn-cgi/
-
-
+# Disallow: /feed.xml
 
 Sitemap: https://estudionale.com/sitemap.xml
