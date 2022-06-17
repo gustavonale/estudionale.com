@@ -1,73 +1,7 @@
-<!-- modificado 12 junio 2022
-{% if page.excerpt %}
-<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-{% elsif page.description %}
-<meta property="og:description" content="{{ page.description }}" />
-{% else %}
-<meta property="og:description" content="{{ site.description }}" />
-{% endif %}
-<meta name="author" content="{{ site.author }}" />
-{% if page.title %}
-<meta property="og:title" content="{{ page.title }}" />
-<meta name="twitter:title" content="{{ page.title }}" />
-{% endif %}
-
-{% if page.image %}
-<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-<meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}" />
-<meta name="twitter:image" content="{{ site.url }}/images/profile1200x628.png" />
-<!--meta property="og:image:width" content="1616" /-->
-<!--meta property="og:image:height" content="1269" /-->
-<!--meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-{% else %}
-<meta property="og:image" content="{{ site.url }}/images/profile1200x628.png" />
-<meta property="og:image:secure_url" content="{{ site.url }}/images/profile1200x628.png" />
-<meta name="twitter:image" content="{{ site.url }}/images/profile1200x628.png" />
-<!--meta property="og:image" content="{{ site.url }}{{ site.avatar }}" /-->
-<!--meta property="og:image:secure_url" content="{{ site.url }}{{ site.avatar }}" /-->
-<!--meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" sizes="1616x1269" />
-{% endif %}
--->
-
-<meta property="og:description" content="{{ site.description }}" />
-<meta name="author" content="{{ site.author }}" />
-<meta property="og:image" content="{{ site.url }}/images/profile1200x628.png" />
-<meta property="og:image:secure_url" content="{{ site.url }}/images/profile1200x628.png" />
-<meta property="og:title" content="{{ site.name }}" />
-<meta name="twitter:title" content="{{ site.name }}" />
-<meta name="twitter:image" content="{{ site.url }}/images/profile1200x628.png" />
-
-<!--lo de arriba estaba en el 'if' -->
-
-<meta name="image" property="og:image" content="{{ site.url }}/images/profile1200x628.png" />
-<meta property="og:image:width" content="1200" />
-<meta name="image" property="og:image:width" content="1200" />
-<meta property="og:image:height" content="628" />
-<meta name="image" property="og:image:height" content="628" />
-
-
-
-<meta property="og:video" content="{{ site.url }}/images/profile1200x628.mp4" />
-<meta property="og:video:secure_url" content="{{ site.url }}/images/profile1200x628.mp4" />
-<meta property="og:video:type" content="video/mp4" />
-<meta property="og:video:width" content="1200" />
-<meta property="og:video:height" content="628" />
-
-
-
-<!-- probando linkedin, cambiar de png a jpg
-<meta name="image" property="og:image" content="{{ site.url }}/images/profile1200x628.jpg" />
-<meta name="publish_date" property="og:publish_date" content="2022-06-01T01:00:00-0300" />
-<meta property="og:publish_date" content="2022-06-01T01:00:00-0300" />
-<meta name="publish_time" property="og:publish_date" content="2022-06-01T01:00:00-0300" />
-<meta property="og:published_time" content="2022-06-01T01:00:00-0300" />
-<meta name="published_time" property="og:article:published_time" content="2022-06-01T01:00:00-0300" />
-<meta property="og:article:published_time" content="2022-06-01T01:00:00-0300" />
--->
-
 <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:standard,max-video-preview:2" />
 <meta name="keywords" lang="es" content="abogado, estudio de abogados, abogado penalista, abogado familia, abogado sucesiones, abogado civil, derecho civil, derecho penal, cobranzas, mediacion, mediador, estudio jurídico, legal, legales, juridico, estudio juridico, bufete, despacho, estudio nale, estudionale.com, estudionale, gustavo nale, gustavo david nale, nale, santa rosa, la pampa, argentina" />
 <meta name="keywords" lang="en" content="lawyer, attorney, gustavo nale, gustavo david nale, estudionale.com" />
+<meta name="author" content="{{ site.author }}" />
 <meta name="copyright" content="{{ site.author }}" />
 <meta name="rating" content="general" />
 <meta name="language" content="es-419" />
@@ -76,24 +10,48 @@
 <meta name="reply-to" content="@gmail.com" />
 <meta http-equiv="reply-to" content="@gmail.com" /-->
 <meta http-equiv="resource-type" content="document" />
-<!--meta property="og:type" content="profile" /-->
+
+<meta property="og:title" content="{{ site.name }}" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:image" content="{{ site.url }}/images/profile1200x628.png" />
+<meta property="og:image:secure_url" content="{{ site.url }}/images/profile1200x628.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<meta property="og:image:alt" content="{{ site.url }}, {{ site.name }}, {{ site.author }}, {{ site.description }}" />
 <meta property="og:locale" content="es_la" />
 <meta property="og:locale:alternate" content="es-419" />
 <meta property="og:locale:alternate" content="es_la" />
 <meta property="og:locale:alternate" content="es_mx" />
 <meta property="og:locale:alternate" content="es_es" />
+<meta property="og:video" content="{{ site.url }}/images/profile1200x628.mp4" />
+<meta property="og:video:secure_url" content="{{ site.url }}/images/profile1200x628.mp4" />
+<meta property="og:video:type" content="video/mp4" />
+<meta property="og:video:width" content="1200" />
+<meta property="og:video:height" content="628" />
+
+
+<!--meta property="og:type" content="profile" /-->
 <!--meta property="ia:markup_url" content="{{ site.url }}/?ia_markup=1" /-->
+<meta property="fb:app_id" content="391026149704853" />
+<meta property="fb:page" content="100064106407750" />
+<meta property="fb:page_id" content="100064106407750" />
+
+<meta name="image" property="og:image" content="{{ site.url }}/images/profile1200x628.png" />
+<meta name="image" property="og:image:width" content="1200" />
+<meta name="image" property="og:image:height" content="628" />
+
+<meta name="twitter:title" content="{{ site.name }}" />
 <meta name="twitter:domain" content="estudionale.com" />
 <meta name="twitter:url" content="{{ site.url }}/" />
 <meta name="twitter:description" content="{{ site.description }}" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@estudionale" />
 <meta name="twitter:creator" content="@estudionale" />
+<meta name="twitter:image" content="{{ site.url }}/images/profile1200x628.png" />
 <meta name="twitter:image:alt" content="{{ site.url }}, {{ site.name }}, {{ site.author }}, {{ site.description }}" />
-<meta property="og:image:alt" content="{{ site.url }}, {{ site.name }}, {{ site.author }}, {{ site.description }}" />
-<meta property="fb:app_id" content="391026149704853" />
-<meta property="fb:page" content="100064106407750" />
-<meta property="fb:page_id" content="100064106407750" />
+
+
+
 
 <link rel="schema.dc" href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/" />
 <meta name="dc.contributor" content="{{ site.author }}" />
@@ -118,6 +76,56 @@
 <meta name="dc.rights" content="{{ site.author }}" />
 <meta name="dc.date" scheme="W3CDTF" content="2022-06-01T01:00:00.00-03:00" />
 
+
+
+
+
+<meta itemprop="name" content="{{ site.name }}" />
+<meta itemprop="description" content="{{ site.description }}" />
+<meta itemprop="image" content="{{ site.url }}{{ site.avatar }}" />
+<meta itemprop="telephone" content="+5492954529500" />
+<meta itemprop="address" content="Gral. Pico 74, L6300DQB Santa Rosa, La Pampa, Argentina." />
+<meta itemprop="hasMap" content="https://www.google.com.ar/maps/place/Estudio+Jur%C3%ADdico+Nale/@-36.617507,-64.293936,17z/data=!3m1!4b1!4m5!3m4!1s0x95c2cd08e24613a7:0x32b2c5e7a10f6320!8m2!3d-36.617507!4d-64.293936?hl=es" />
+<meta itemprop="logo" content="{{ site.url }}{{ site.avatar }}" />
+<meta itemprop="url" content="{{ site.url }}/" />
+<meta itemprop="keywords" lang="es" content="abogado, estudio de abogados, abogado penalista, abogado familia, abogado sucesiones, abogado civil, derecho civil, derecho penal, cobranzas, mediacion, mediador, estudio jurídico, legal, legales, juridico, estudio juridico, bufete, despacho, estudio nale, estudionale.com, estudionale, gustavo nale, gustavo david nale, nale, santa rosa, la pampa, argentina" />
+<meta itemprop="keywords" lang="en" content="lawyer, attorney, gustavo nale, gustavo david nale, estudionale.com" />
+<meta itemprop="funder" content="{{ site.name }}" />
+<meta itemprop="latitude" content="-36.617537139690874" />
+<meta itemprop="longitude" content="-64.29392527116423" />
+<meta itemprop="knowsAbout" content="Lawyer" />
+<meta itemprop="subjectOf" content="Attorney" />
+<meta itemprop="url" content="https://estudionale.com/" />
+<meta itemprop="legalName" content="{{ site.author }}" />
+<meta itemprop="priceRange" content="$$$" />
+<meta itemprop="sameas" content="https://estudionale.negocio.site/" />
+<meta itemprop="sameas" content="https://www.facebook.com/estudionale/" />
+<meta itemprop="sameas" content="https://www.instagram.com/estudionale/" />
+<meta itemprop="sameas" content="https://twitter.com/estudionale/" />
+<meta itemprop="sameas" content="https://ar.pinterest.com/estudionale/" />
+<meta itemprop="sameas" content="{{ site.url }}/" />
+<!--meta itemprop="sameAs" content="@gmail.com" /-->
+<!--meta itemprop="currenciesAccepted" content="ARS, USD" /-->
+<!--meta itemprop="paymentAccepted	" content="Cash, Credit Card, Debit Card" /-->
+<!--meta itemprop="email" content="@gmail.com" /-->
+
+<meta name="facebook-domain-verification" content="1gx07x6c41lmgjkwvzqyh7tt5juenr" />
+<meta name="google-site-verification" content="RKMa0zb9gUtcLD5KVLQCeBxWItq_qYg6l_m15pQFXjs" />
+<meta name="yandex-verification" content="a8b740b5ac29b6b7" />
+<meta name="p:domain_verify" content="d5ef85c572aa0f52ff3aa1171ef832aa"/>
+
+
+
+
+<!-- probando linkedin, cambiar de png a jpg
+<meta name="image" property="og:image" content="{{ site.url }}/images/profile1200x628.jpg" />
+<meta name="publish_date" property="og:publish_date" content="2022-06-01T01:00:00-0300" />
+<meta property="og:publish_date" content="2022-06-01T01:00:00-0300" />
+<meta name="publish_time" property="og:publish_date" content="2022-06-01T01:00:00-0300" />
+<meta property="og:published_time" content="2022-06-01T01:00:00-0300" />
+<meta name="published_time" property="og:article:published_time" content="2022-06-01T01:00:00-0300" />
+<meta property="og:article:published_time" content="2022-06-01T01:00:00-0300" />
+-->
 
 <script type='application/ld+json'>
 { "@context": "https://schema.org/",
@@ -153,37 +161,3 @@
          "name": "{{ site.name }}",
          "item": "{{ site.url }}/" } ] }
 </script>
-
-<meta name="facebook-domain-verification" content="1gx07x6c41lmgjkwvzqyh7tt5juenr" />
-<meta name="google-site-verification" content="RKMa0zb9gUtcLD5KVLQCeBxWItq_qYg6l_m15pQFXjs" />
-<meta name="yandex-verification" content="a8b740b5ac29b6b7" />
-<meta name="p:domain_verify" content="d5ef85c572aa0f52ff3aa1171ef832aa"/>
-
-<meta itemprop="name" content="{{ site.name }}" />
-<meta itemprop="description" content="{{ site.description }}" />
-<meta itemprop="image" content="{{ site.url }}{{ site.avatar }}" />
-<meta itemprop="telephone" content="+5492954529500" />
-<meta itemprop="address" content="Gral. Pico 74, L6300DQB Santa Rosa, La Pampa, Argentina." />
-<meta itemprop="hasMap" content="https://www.google.com.ar/maps/place/Estudio+Jur%C3%ADdico+Nale/@-36.617507,-64.293936,17z/data=!3m1!4b1!4m5!3m4!1s0x95c2cd08e24613a7:0x32b2c5e7a10f6320!8m2!3d-36.617507!4d-64.293936?hl=es" />
-<meta itemprop="logo" content="{{ site.url }}{{ site.avatar }}" />
-<meta itemprop="url" content="{{ site.url }}/" />
-<meta itemprop="keywords" lang="es" content="abogado, estudio de abogados, abogado penalista, abogado familia, abogado sucesiones, abogado civil, derecho civil, derecho penal, cobranzas, mediacion, mediador, estudio jurídico, legal, legales, juridico, estudio juridico, bufete, despacho, estudio nale, estudionale.com, estudionale, gustavo nale, gustavo david nale, nale, santa rosa, la pampa, argentina" />
-<meta itemprop="keywords" lang="en" content="lawyer, attorney, gustavo nale, gustavo david nale, estudionale.com" />
-<meta itemprop="funder" content="{{ site.name }}" />
-<meta itemprop="latitude" content="-36.617537139690874" />
-<meta itemprop="longitude" content="-64.29392527116423" />
-<meta itemprop="knowsAbout" content="Lawyer" />
-<meta itemprop="subjectOf" content="Attorney" />
-<meta itemprop="url" content="https://estudionale.com/" />
-<meta itemprop="legalName" content="{{ site.author }}" />
-<meta itemprop="priceRange" content="$$$" />
-<meta itemprop="sameas" content="https://estudionale.negocio.site/" />
-<meta itemprop="sameas" content="https://www.facebook.com/estudionale/" />
-<meta itemprop="sameas" content="https://www.instagram.com/estudionale/" />
-<meta itemprop="sameas" content="https://twitter.com/estudionale/" />
-<meta itemprop="sameas" content="https://ar.pinterest.com/estudionale/" />
-<meta itemprop="sameas" content="{{ site.url }}/" />
-<!--meta itemprop="sameAs" content="@gmail.com" /-->
-<!--meta itemprop="currenciesAccepted" content="ARS, USD" /-->
-<!--meta itemprop="paymentAccepted	" content="Cash, Credit Card, Debit Card" /-->
-<!--meta itemprop="email" content="@gmail.com" /-->
