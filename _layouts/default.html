@@ -7,12 +7,12 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
     {% include meta.html %}
-    <!--llink rel="stylesheet" href="{{ site.url }}/assets/style.css" />
-    <ink rel="preload" as="style" href="{{ site.url }}/assets/style.css" /-->
-    
+    <link rel="stylesheet" href="{{ site.url }}/assets/style.css" />
+    <!--
+    <link rel="preload" as="style" href="{{ site.url }}/assets/style.css" />
     <link rel="preload" href="{{ site.url }}/assets/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="{{ site.url }}/assets/style.css"></noscript>
-    
+    -->
     
     
     
