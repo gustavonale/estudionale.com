@@ -3,6 +3,7 @@ Disallow: /LICE*
 Disallow: /REA*.md
 Disallow: /ini*.*l
 Disallow: /.well-kn*/
+Disallow: /cdn-cgi/
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
@@ -18,7 +19,6 @@ Allow: /sitemap.xml
 # Disallow: /assets/
 # Disallow: /fonts/
 # Disallow: /images/
-# Disallow: /cdn-cgi/
 # Disallow: /feed.xml
 
 Sitemap: https://estudionale.com/sitemap.xml
