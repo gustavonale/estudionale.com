@@ -22,4 +22,6 @@ Disallow: /cdn-cgi/
 # Disallow: /images/
 # Disallow: /feed.xml
 
+Host: estudionale.com
+
 Sitemap: https://estudionale.com/sitemap.xml
