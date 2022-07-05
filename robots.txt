@@ -1,26 +1,10 @@
 User-agent: *
 Allow: /
-Disallow: /LICE*
-Disallow: /REA*.md
+Allow: /index.html
 Disallow: /ini*.*l
 Disallow: /.well-kn*/
 Disallow: /cdn-cgi/
 # Allow: /index.html
-# Allow: /404.html
-# Allow: /sitemap.xml
-# Allow: /CNAME
-# Allow: /googlea63fae354dd2d06a.html
-# Allow: /BingSiteAuth.xml
-# Allow: /yandex_a8b740b5ac29b6b7.html
-# Allow: /1gx07x6c41lmgjkwvzqyh7tt5juenr.html
-# Allow: /pinterest-d5ef8.html
-# Allow: /c3d2678d25494af882ac2e5899f6b882.txt
-# Disallow: /_*/
-# Disallow: /.*/
-# Disallow: /assets/
-# Disallow: /fonts/
-# Disallow: /images/
-# Disallow: /feed.xml
 
 Host: estudionale.com
 
