@@ -2,7 +2,6 @@ User-agent: *
 Allow: /
 Allow: /index.html
 Disallow: /ini*.*l
-Disallow: /.well-kn*/
 Disallow: /cdn-cgi/
 
 Host: estudionale.com
