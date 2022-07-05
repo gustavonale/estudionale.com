@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: estudionale.com
+Token: e73fb42348f9277aec3784c0fede173badaff80cb0af888784df5f54d00b359d
