@@ -4,7 +4,6 @@ Allow: /index.html
 Disallow: /ini*.*l
 Disallow: /.well-kn*/
 Disallow: /cdn-cgi/
-# Allow: /index.html
 
 Host: estudionale.com
 
