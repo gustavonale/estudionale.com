@@ -5,6 +5,6 @@ Disallow: /ini*.*l
 Disallow: /cdn-cgi/
 #Crawl-delay: 60
 
-Host: estudionale.com
-
 Sitemap: https://estudionale.com/sitemap.xml
+
+Host: estudionale.com
