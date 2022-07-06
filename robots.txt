@@ -3,7 +3,7 @@ Allow: /
 Allow: /index.html
 Disallow: /ini*.*l
 Disallow: /cdn-cgi/
-Crawl-delay: 60
+#Crawl-delay: 60
 
 Host: estudionale.com
 
