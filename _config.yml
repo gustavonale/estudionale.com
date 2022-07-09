@@ -71,7 +71,6 @@ google_analytics_ga4: G-RSCNHLXSG2
 # url: http://estudionale.com  # originalmente es http y no https
 url: https://estudionale.com
 enforce_ssl: estudionale.com
-encoding: UTF-8
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
