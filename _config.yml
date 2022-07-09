@@ -36,7 +36,6 @@ footer-links:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-228056227-1
-
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 google_analytics_ga4: G-RSCNHLXSG2
 
@@ -57,7 +56,6 @@ enforce_ssl: estudionale.com
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-# version: v1.2.0
 version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
