@@ -1,17 +1,17 @@
 # This file contains configuration flags to customize your site
 
 # Name of your site (displayed in the header)
-name: Estudio Nale
+name: "Estudio Nale"
 
 # Name of the author
-author: Gustavo David Nale
+author: "Gustavo David Nale"
 
 # Short bio or description (displayed in the header)
-description: Abogado. Servicios Jurídicos.
+description: "Abogado. Servicios Jurídicos."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # alt: Abogado - Servicios Jurídicos en Santa Rosa La Pampa - Gustavo David Nale - Estudio Nale - estudionale@gmail.com - estudionale.com
-avatar: https://estudionale.com/images/logo.svg
+avatar: "https://estudionale.com/images/logo.svg"
 
 # Flags below are optional
 
