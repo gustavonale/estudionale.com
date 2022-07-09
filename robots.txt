@@ -3,6 +3,7 @@ Allow: /
 Allow: /index.html
 Disallow: /ini*.*l
 Disallow: /cdn-cgi/
+Disallow: /wp*
 #Crawl-delay: 0
 
 Sitemap: https://estudionale.com/sitemap.xml
