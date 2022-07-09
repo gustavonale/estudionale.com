@@ -17,44 +17,20 @@ avatar: "https://estudionale.com/images/logo.png"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  # dribbble:
   email: estudionale@gmail.com
   # facebook: estudionale/
-  # flickr:
   # instagram: estudionale/
   # linkedin: 
   # pinterest: estudionale/
   # rss: rss
   # twitter: estudionale/
-  # stackoverflow: 
-  # youtube: channel/UCx1T0Mpi3-sTdOphQOSx9gw/ # channel/<your_long_string> or user/<user-name>
+  # youtube: channel/UCx1T0Mpi3-sTdOphQOSx9gw/
   # github:
-  # googleplus: # anything in your profile username that comes after plus.google.com/
-  # playconsole:
-   #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
    #  medium: yourname
-   #  telegram: test
-   #  telephone: +5492954529500
-   #  reddit: yourname
    #  linkedin: daattali
-   #  xing: yourname
-   #  stackoverflow: "3943160/daattali"
-   #  snapchat: deanat78
-   #  instagram: deanat78
-   #  spotify: yourname
    #  telephone: +14159998888
-   #  steam: deanat78
    #  twitch: yourname
-   #  yelp: yourname
    #  telegram: yourname
-   #  calendly: yourname
-   #  mastodon: instance.url/@username
-   #  ORCID: your ORCID ID
-   #  google-scholar: your google scholar
-   #  discord: invite/invite_code or users/userid 
-   #  kaggle: yourname
-   #  hackerrank: yourname
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
