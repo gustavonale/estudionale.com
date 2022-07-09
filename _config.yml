@@ -1,14 +1,6 @@
-# Name of your site (displayed in the header)
 name: "Estudio Nale"
-
-# Name of the author
 author: "Gustavo David Nale"
-
-# Short bio or description (displayed in the header)
 description: "Abogado. Servicios Jurídicos."
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-# alt: Abogado - Servicios Jurídicos en Santa Rosa La Pampa - Gustavo David Nale - Estudio Nale - estudionale@gmail.com - estudionale.com
 avatar: "https://estudionale.com/images/logo.png"
 
 # Flags below are optional
@@ -68,11 +60,9 @@ kramdown:
     # css_class: 'highlight'
     css_class: 'darcula'
     
-
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :compressed # You might prefer to minify using :compressed vs :expanded
-
 
 # Use the following plug-ins
 plugins:
