@@ -3,6 +3,7 @@ Allow: /
 Allow: /index.html
 Allow: /404.html
 Allow: /sitemap.xml
+Allow: /sitemap-i.xml
 Disallow: /ini*.*l
 Disallow: /cdn-cgi/
 Disallow: /wp*
@@ -10,5 +11,7 @@ Disallow: /site*
 #Crawl-delay: 0
 
 Sitemap: https://estudionale.com/sitemap.xml
+Sitemap: https://estudionale.com/sitemap-i.xml
+
 
 Host: estudionale.com
