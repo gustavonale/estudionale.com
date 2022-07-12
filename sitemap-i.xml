@@ -9,5 +9,8 @@
     <image:image>
       <image:loc>https://estudionale.com/images/profile.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://estudionale.com/images/profile.gif</image:loc>
+    </image:image>
   </url>
 </urlset>
