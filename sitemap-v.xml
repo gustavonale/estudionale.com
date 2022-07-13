@@ -9,8 +9,8 @@
        <video:description>Alkis shows you how to get perfectly done steaks every
          time</video:description>
        <video:content_loc>
-          http://streamserver.example.com/video123.mp4</video:content_loc>
-       <video:duration>600</video:duration>
+          https://estudionale.com/images/profile.mp4</video:content_loc>
+       <video:duration>5</video:duration>
        <video:live>no</video:live>
      </video:video>
    </url>
