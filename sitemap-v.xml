@@ -5,11 +5,9 @@
      <loc>https://estudionale.com/index.html</loc>
      <video:video>
        <video:thumbnail_loc>https://estudionale.com/images/profile.png</video:thumbnail_loc>
-       <video:title>Grilling steaks for summer</video:title>
-       <video:description>Alkis shows you how to get perfectly done steaks every
-         time</video:description>
-       <video:content_loc>
-          https://estudionale.com/images/profile.mp4</video:content_loc>
+       <video:title>Estudio Jurídico Nale</video:title>
+       <video:description>Abogado. Servicios Jurídicos en Santa Rosa La Pampa AR. Gustavo David Nale</video:description>
+       <video:content_loc>https://estudionale.com/images/profile.mp4</video:content_loc>
        <video:duration>5</video:duration>
        <video:live>no</video:live>
      </video:video>
