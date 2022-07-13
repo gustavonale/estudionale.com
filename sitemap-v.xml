@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
    <url>
-     <loc>https://estudionale.com/</loc>
+     <loc>https://estudionale.com/video.html</loc>
      <video:video>
        <video:thumbnail_loc>https://estudionale.com/images/profile.gif</video:thumbnail_loc>
        <video:title>Estudio Jurídico Nale</video:title>
