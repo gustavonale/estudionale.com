@@ -6,4 +6,10 @@
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
 </url>
+<url>
+<loc>https://estudionale.com/images/</loc>
+<lastmod>2022-07-10T06:00-03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
 </urlset>
