@@ -18,5 +18,11 @@
       <image:geo_location>Gral. Pico 74, L6300DQB Santa Rosa, La Pampa, Argentina</image:geo_location>
       <image:title>Estudio Jurídico Nale</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://estudionale.com/images/profile.svg</image:loc>
+      <image:caption>Gustavo David Nale. Abogado.</image:caption>
+      <image:geo_location>Gral. Pico 74, L6300DQB Santa Rosa, La Pampa, Argentina</image:geo_location>
+      <image:title>Estudio Jurídico Nale</image:title>
+    </image:image>
   </url>
 </urlset>
