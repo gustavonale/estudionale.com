@@ -6,9 +6,15 @@
      <video:video>
        <video:thumbnail_loc>https://estudionale.com/images/profile.gif</video:thumbnail_loc>
        <video:title>Estudio Jurídico Nale</video:title>
-       <video:description>Abogado. Servicios Jurídicos en Santa Rosa La Pampa AR. Gustavo David Nale.</video:description>
+       <video:description>Gustavo David Nale. Abogado. Servicios Jurídicos en Santa Rosa La Pampa AR. https://estudionale.com/</video:description>
        <video:content_loc>https://estudionale.com/images/profile.mp4</video:content_loc>
        <video:family_friendly>yes</video:family_friendly>
+       <video:tag>Gustavo Nale</video:tag>	
+       <video:tag>Estudio Nale</video:tag>	
+       <video:tag>estudionale.com</video:tag>	
+       <video:tag>Abogado Santa Rosa/</video:tag>	
+       <video:tag>Abogado La Pampa</video:tag>	
+       <video:tag>Estudio Jurídico</video:tag>
      </video:video>
    </url>
 </urlset>
