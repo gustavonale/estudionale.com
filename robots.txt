@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /index.html
-Allow: /404.html
-Allow: /sitemap.xml
-Allow: /sitemap-i.xml
-Allow: /sitemap-v.xml
 Disallow: /cdn-cgi/
 Disallow: /.*/
 Disallow: /_*/
