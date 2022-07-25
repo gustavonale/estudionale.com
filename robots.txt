@@ -1,6 +1,10 @@
 User-agent: *
 Disallow: /
 Allow: /index.html$
+Allow: /404.html$
+Allow: /sitemap.xml$
+Allow: /sitemap-i.xml$
+Allow: /sitemap-v.xml$
 
 Sitemap: https://estudionale.com/sitemap.xml
 Sitemap: https://estudionale.com/sitemap-i.xml
