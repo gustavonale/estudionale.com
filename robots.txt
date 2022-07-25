@@ -3,7 +3,7 @@ Allow: /
 Disallow: /cdn-cgi/
 Disallow: /.*/
 Disallow: /_*/
-Disallow: /ini*.*l
+Disallow: /inic*.*l$
 Disallow: /.*
 Disallow: /_*
 
