@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /cdn-cgi/
+Disallow: /images/
 Disallow: /.*/
 Disallow: /_*/
 Disallow: /inic*.*l$
