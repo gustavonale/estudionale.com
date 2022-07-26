@@ -1,10 +1,5 @@
 User-agent: *
-Disallow: 
-#Allow: /index.html$
-#Allow: /404.html$
-#Allow: /sitemap.xml$
-#Allow: /sitemap-i.xml$
-#Allow: /sitemap-v.xml$
+Disallow: /inic*.*l$
 
 Sitemap: https://estudionale.com/sitemap.xml
 Sitemap: https://estudionale.com/sitemap-i.xml
@@ -12,12 +7,5 @@ Sitemap: https://estudionale.com/sitemap-v.xml
 
 Host: estudionale.com
 
-#Allow: /
 #Disallow: /cdn-cgi/
-#Disallow: /images/
-#Disallow: /.*/
-#Disallow: /_*/
-#Disallow: /inic*.*l$
-#Disallow: /.*
-#Disallow: /_*
 #Crawl-delay: 30
