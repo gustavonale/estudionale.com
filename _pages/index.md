@@ -23,6 +23,7 @@ permalink: /
     <div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div>
 <div class="tel">📞 <a href="tel:+5492954529500">(+54 9) 2954-529500</a></div>
 </div>
- </address><div>
- 📱  <a href="https://wa.me/5492954529500?text=Me%20comunico%20para%20hacer%20hacer%20una%20consulta%20profesional%20arancelada: ">Whatsapp</a> </div><span>
-  📲  <a href="https://t.me/gustavo_ok">Telegram</a></span>
+ </address><div><span>
+ 📱  <a href="https://wa.me/5492954529500?text=Me%20comunico%20para%20hacer%20hacer%20una%20consulta%20profesional%20arancelada: ">Whatsapp</a> </span></div><div><span>
+        
+  📲  <a href="https://t.me/gustavo_ok">Telegram</a></span></div>
