@@ -20,5 +20,5 @@ permalink: /
         <span class="region">La Pampa</span>,
         <span class="country-name">AR</span>.</div>
     </div><div class="tel">📞 <a href="tel:+5492954529500">(+54 9) 2954-529500</a></div>
-    <a href="https://wa.me/5492954529500">whatsapp<div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
+    <div class="url">🌐 <a href="https://estudionale.com/">https://estudionale.com/</a></div></div>
  </address>
