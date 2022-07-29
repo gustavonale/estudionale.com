@@ -1,9 +1,6 @@
 User-agent: *
 Disallow: /cdn-cgi/
-#Crawl-delay: 30
 
 Sitemap: https://estudionale.com/sitemap.xml
 Sitemap: https://estudionale.com/sitemap-i.xml
 Sitemap: https://estudionale.com/sitemap-v.xml
-
-#Host: estudionale.com
