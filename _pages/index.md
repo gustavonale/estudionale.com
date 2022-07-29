@@ -26,5 +26,5 @@ permalink: /
  </address>
 <div><span>
 📲  <a href="https://wa.me/5492954529500?text=Me%20comunico%20para%20hacer%20hacer%20una%20consulta%20profesional%20arancelada: ">Whatsapp</a></span></div>
- <span>
-📲  <a href="https://t.me/gustavo_ok">Telegram</a></span>
+<div><span>
+📲  <a href="https://t.me/gustavo_ok">Telegram</a></span></div>
